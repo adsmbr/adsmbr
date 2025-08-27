@@ -1,1 +1,60 @@
-Alisson MontijoEngenheiro de Dados | Analista de Dados | DesenvolvedorOlá! Sou o Alisson, um profissional apaixonado por tecnologias digitais e suas aplicações. Atualmente sou mestrando em Humanidades Digitais na UFRRJ, onde exploro a interseção entre tecnologia, cultura e sociedade. Minha jornada profissional começou na área de turismo, o que me proporcionou habilidades valiosas de comunicação e organização. Hoje, minhas paixões se concentram em Engenharia e Análise de Dados, com um foco crescente em Inteligência Artificial, Processamento de Linguagem Natural e Machine Learning.Sou um eterno aprendiz, sempre em busca de novos conhecimentos e desafios. Tenho uma base sólida em desenvolvimento web com JavaScript, HTML, e CSS, e estou aprofundando minhas habilidades em Python, SQL, Snowflake, Databricks e dbt.🚀 O que você encontrará aqui?Aqui no meu perfil, você terá acesso a projetos que refletem minhas paixões e habilidades, incluindo:Projetos de Engenharia de Dados: Pipelines de dados, transformações e arquiteturas.Análise e Visualização de Dados: Dashboards, análises exploratórias e insights.Desenvolvimento Web: Aplicações front-end e experimentos com novas tecnologias.Projetos de IA e NLP: Aplicações de Machine Learning e processamento de linguagem.🛠️ Minhas CompetênciasEngenharia e Análise de Dados: SQL, Python, Snowflake, Databricks, dbt.Desenvolvimento: JavaScript, HTML, CSS.Interpessoais: Bilíngue (Inglês), atendimento ao cliente, gerenciamento de projetos.Áreas de Interesse: Inteligência Artificial (IA), Processamento de Linguagem Natural (PLN), Machine Learning (ML), Web Development e Front-end.🌱 Junte-se a mim!Estou sempre aberto a colaborações e a aprender com a comunidade. Sinta-se à vontade para explorar meus projetos, dar um "star" no que gostar e me conectar.<br>Alisson Montijo
+# 👋 Olá, eu sou o Alisson Montijo  
+
+🎯 **Engenharia de Dados | Análise de Dados | JavaScript | Python | SQL | Snowflake | Databricks | dbt | Bilíngue**  
+📍 Nova Iguaçu, Rio de Janeiro – Brasil  
+
+---
+
+## 🌟 Sobre mim  
+Mestrando no Programa de Pós-graduação em Humanidades Digitais pela UFRRJ. Tenho habilidades em Javascript, HTML, CSS com certificação pela Alura, além de estar aprendendo a linguagem Python. Possuo interesse em Engenharia e Análise de Dados.
+
+> 🚀 Meu objetivo é contribuir para projetos inovadores e desafiadores, unindo minhas competências técnicas e interpessoais.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas  
+
+- **Linguagens:** JavaScript, HTML, CSS, Python, SQL
+- **Engenharia de Dados:** Snowflake, Databricks, dbt
+
+---
+
+## 📜 Certificações  
+
+- **Hands-On Essentials: Collaboration, Marketplace & Cost Estimation Workshop** - Snowflake (Julho de 2025)
+- **Hands-On Essentials: Data Warehousing Workshop** - Snowflake (Julho de 2025)
+- **dbt Fundamentals** - dbt Labs (Julho de 2025)
+- **Manage and Create Listings via Provider Studio** - Snowflake
+- **Estimate and Monitor Snowflake Costs** - Snowflake
+- **Act as Org Admin to Create and Manage Accounts** - Snowflake
+- **Create a User-Defined Table Function (UDTF)** - Snowflake
+- **Use the Marketplace and Collaboration Tools to Cut Costs and Improve Operational Efficiency.** - Snowflake
+- **Create, edit, and load Snowflake TABLES** - Snowflake
+- **Create, edit, and use Snowflake FILE FORMATS** - Snowflake
+- **Create, edit, and use Snowflake COMPUTE resources** - Snowflake
+- **Create, edit, and use COPY INTO statements** - Snowflake
+- **Transform, parse and load both CSV and JSON data** - Snowflake
+- **Build Data Pipelines with DLT** - Databricks
+- **Data Ingestion with Lakeflow Connect** - Databricks
+- **Data Management and Governance with Unity Catalog** - Databricks
+- **Databricks Data Privacy** - Databricks
+- **Databricks Fundamentals Accreditation** - Databricks
+- **Knowledge Check: Get Started with Databricks for Data Engineering** - Databricks
+
+---
+
+## 🌍 Idiomas  
+
+- 🇺🇸 Inglês — Nível avançado
+
+---
+
+## 📫 Contato  
+
+- 💼 LinkedIn: [linkedin.com/in/alissonmontijo](https://www.linkedin.com/in/alissonmontijo)
+
+---
+
+✨ *“Tecnologia é ponte entre ideias e impacto real.”*  
+
+
