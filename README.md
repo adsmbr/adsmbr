@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 Sobre mim  
-Mestrando no Programa de Pós-graduação em Humanidades Digitais pela UFRRJ. Tenho habilidades em Javascript, HTML, CSS com certificação pela Alura, além de estar aprendendo a linguagem Python. Possuo interesse em Engenharia e Análise de Dados.
+Mestrando no Programa de Pós-graduação em Humanidades Digitais pela UFRRJ. Turismólogo formado pela Universidade Federal Rural do Rio de Janeiro, com experiência em organização de eventos, recepção bilíngue e promoção de produtos e serviços. Tenho habilidades em Javascript, HTML, CSS com certificação pela Alura, além de estar aprendendo a linguagem Python. Possuo interesse em Análise de Dados.
 
 > 🚀 Meu objetivo é contribuir para projetos inovadores e desafiadores, unindo minhas competências técnicas e interpessoais.
 
@@ -23,6 +23,9 @@ Mestrando no Programa de Pós-graduação em Humanidades Digitais pela UFRRJ. Te
 
 - **Hands-On Essentials: Collaboration, Marketplace & Cost Estimation Workshop** - Snowflake (Julho de 2025)
 - **Hands-On Essentials: Data Warehousing Workshop** - Snowflake (Julho de 2025)
+- - **Hands-On Essentials: Data Engineering Workshop** - Snowflake (Julho de 2025)
+- **Hands-On Essentials: Data Lake Workshop** - Snowflake (Julho de 2025)
+- **Hands-On Essentials: Data Application Builders Workshop** - Snowflake (Julho de 2025)
 - **dbt Fundamentals** - dbt Labs (Julho de 2025)
 - **Manage and Create Listings via Provider Studio** - Snowflake
 - **Estimate and Monitor Snowflake Costs** - Snowflake
@@ -55,6 +58,4 @@ Mestrando no Programa de Pós-graduação em Humanidades Digitais pela UFRRJ. Te
 
 ---
 
-✨ *“Tecnologia é ponte entre ideias e impacto real.”*  
-
-
+✨ *“Tecnologia é ponte entre ideias e impacto real.”* 
