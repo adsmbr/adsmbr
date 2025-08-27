@@ -23,7 +23,7 @@ Mestrando no Programa de Pós-graduação em Humanidades Digitais pela UFRRJ. Tu
 
 - **Hands-On Essentials: Collaboration, Marketplace & Cost Estimation Workshop** - Snowflake (Julho de 2025)
 - **Hands-On Essentials: Data Warehousing Workshop** - Snowflake (Julho de 2025)
-- - **Hands-On Essentials: Data Engineering Workshop** - Snowflake (Julho de 2025)
+- **Hands-On Essentials: Data Engineering Workshop** - Snowflake (Julho de 2025)
 - **Hands-On Essentials: Data Lake Workshop** - Snowflake (Julho de 2025)
 - **Hands-On Essentials: Data Application Builders Workshop** - Snowflake (Julho de 2025)
 - **dbt Fundamentals** - dbt Labs (Julho de 2025)
