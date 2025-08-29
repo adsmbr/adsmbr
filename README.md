@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 Sobre mim  
-Mestrando no Programa de Pós-graduação em Humanidades Digitais pela UFRRJ. Turismólogo formado pela Universidade Federal Rural do Rio de Janeiro, com experiência em organização de eventos, recepção bilíngue e promoção de produtos e serviços. Tenho habilidades em Javascript, HTML, CSS com certificação pela Alura, além de estar aprendendo a linguagem Python. Possuo interesse em Análise de Dados.
+Mestrando no Programa de Pós-graduação em Humanidades Digitais pela UFRRJ. Turismólogo formado pela Universidade Federal Rural do Rio de Janeiro, com experiência em organização de eventos, recepção bilíngue e promoção de produtos e serviços. Tenho habilidades em Javascript, HTML, CSS com certificação pela Alura, além de estar aprendendo a linguagem Python. Possuo interesse em Engenharia e Análise de Dados, Inteligência Artificial, PLN, LLM e Machine Learning
 
 > 🚀 Meu objetivo é contribuir para projetos inovadores e desafiadores, unindo minhas competências técnicas e interpessoais.
 
