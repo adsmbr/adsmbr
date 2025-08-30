@@ -67,8 +67,8 @@
 
 ## 📊 GitHub Stats  
 
-![Alisson GitHub Stats](https://github-readme-stats.vercel.app/api?username=alissonmontijo&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonmontijo&layout=compact&theme=tokyonight)
+![Alisson GitHub Stats](https://github-readme-stats.vercel.app/api?username=adsmbr&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adsmbr&layout=compact&theme=tokyonight)
 
 ---
 
