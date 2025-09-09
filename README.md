@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Alisson Montijo  
 
 🎯 **Engenharia de Dados | Análise de Dados | JavaScript | Python | SQL | Snowflake | Databricks | dbt | Bilíngue**  
-📍 Nova Iguaçu, Rio de Janeiro – Brasil  
+📍 Rio de Janeiro – Brasil  
 
 ---
 
