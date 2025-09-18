@@ -48,7 +48,7 @@
   - Manage and Create Listings via Provider Studio
   - Estimate and Monitor Snowflake Costs
   - Act as Org Admin to Create and Manage Accounts
-  - Create, edit and load TABLES, FILE FORMATS, COMPUTE resources e COPY INTO statements
+  - Create, edit, and load TABLES, FILE FORMATS, COMPUTE resources, and COPY INTO statements
   - Transformar, parsear e carregar CSV e JSON
   - User-Defined Table Functions (UDTF)
   - Uso de Marketplace e ferramentas de colaboração para redução de custos
